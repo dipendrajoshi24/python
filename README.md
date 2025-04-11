@@ -19,3 +19,5 @@ Advanced Concepts: Sorting, Searching, and basic Data Science operations.
 🤝 Contributing
 
 Feel free to fork this repository and contribute by adding more programs or improving existing ones!
+
+# Author: Dipendra Joshi
