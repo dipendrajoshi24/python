@@ -5,7 +5,5 @@ for i in range(n):
     
     key=input("Enter key:")
     value=input("Enter value:")
-    
     d[key]=value
-    
     print("user defined dictionary:",d) 
