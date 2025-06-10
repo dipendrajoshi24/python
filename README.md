@@ -10,7 +10,7 @@ Data Structures: Lists, Tuples, Dictionaries, and Sets operations.
 
 File Handling: Reading and writing files, handling exceptions.
 
-# 🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this repository and contribute by adding more programs or improving existing ones.
 
 
